@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashant deshar" target="blank"><img src="https://img.shields.io/twitter/follow/prashant deshar?logo=twitter&style=for-the-badge" alt="prashant deshar" /></a> </p>
 
-- 🌱 I’m currently learning **Express,Flutter**
+
 
 - 📫 How to reach me **dsrprasant@gmail.com**
 
