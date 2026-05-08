@@ -1,76 +1,114 @@
 <h1 align="center">Hi 👋, I'm Prashant Deshar</h1>
-<h3 align="center">Backend Developer focused on building scalable and efficient web applications using Node.js, TypeScript, and modern backend architectures. Passionate about clean code, API design, and solving real-world problems through technology.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prashant133&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="prashant133" />
+<h3 align="center">Backend Engineer | Node.js & TypeScript Developer</h3>
+
+<p align="center">
+I build scalable backend systems, clean APIs, secure authentication flows, and high-performance web services.
 </p>
 
-- 🌱 I'm currently learning **Redis**
-- 👨‍💻 All of my projects are available at [https://deshar-prashant-portfolio.netlify.app/](https://deshar-prashant-portfolio.netlify.app/)
-- 📝 I regularly write articles on [https://medium.com/@dsrprasant](https://medium.com/@dsrprasant)
-- 📫 How to reach me **dsrprasant@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashant133&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## 💼 Work Experience
+## 👨‍💻 About Me
 
-**Backend Developer Intern** — WebX Nepal *(Current)*
-- Building and maintaining backend services and APIs
-- Working with Node.js and TypeScript in a production environment
+I am a backend-focused developer with a strong interest in scalable systems, clean architecture, API design, and backend performance optimization. I enjoy building practical backend solutions that are secure, maintainable, and production-ready.
 
-**Backend Developer Intern** — Nepal Telecom (NTC) *(3 months)*
-- Developed and maintained RESTful APIs for internal services
-- Worked on the REST project, contributing to backend architecture and API design
-- Collaborated with the team on database integration and testing
+- 🔭 Currently focused on **system design and scalable backend architecture**
+- ⚡ Exploring **Redis for caching, queues, and performance optimization**
+- 🔐 Interested in **secure API design and authentication systems**
+- 🧩 Learning more about **microservices and distributed systems**
+- 📦 Improving skills in **production-level Node.js optimization**
 
 ---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## ⚡ Current Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/deshar-prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshar-prashant" height="30" width="40" /></a>
-  <a href="https://medium.com/@dsrprasant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dsrprasant" height="30" width="40" /></a>
+- 🚀 System Design & Scalable Backend Architectures  
+- ⚡ Redis: Caching, Queues, and Performance Optimization  
+- 🔐 Secure API Design & Authentication Systems  
+- 🧩 Microservices & Distributed Systems  
+- 📦 Production-level Node.js Optimization  
+
+---
+
+## 🧰 Tech Stack
+
+### 🚀 Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-Framework-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-Language-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-Language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant133&show_icons=true&locale=en" alt="prashant133" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant133&" alt="prashant133" /></p>
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### 🔧 ORM / ODM
+
+<p>
+  <img src="https://img.shields.io/badge/TypeORM-ORM-FE0803?style=for-the-badge" alt="TypeORM" />
+  <img src="https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge" alt="Mongoose" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🌐 **Portfolio** → [View Portfolio](https://deshar-prashant-portfolio.netlify.app/)
+- 🛠️ **Backend APIs & Systems** → Available on my GitHub repositories
+- 📦 **Production Projects** → REST APIs, authentication systems, and scalable backend services
+
+---
+
+## 📝 Writing
+
+- 📰 **Medium** → [Read my articles](https://medium.com/@dsrprasant)
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email** → [dsrprasant@gmail.com](mailto:dsrprasant@gmail.com)
+- 🔗 **LinkedIn** → [deshar-prashant](https://linkedin.com/in/deshar-prashant)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashant133&show_icons=true&theme=default" alt="Prashant's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant133" alt="GitHub streak stats" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile 🚀
+</p>
