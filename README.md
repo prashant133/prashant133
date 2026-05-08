@@ -35,28 +35,46 @@ Building scalable backend systems, clean APIs, and high-performance web services
 
 ## 🧰 Tech Stack
 
-**Backend**
-- Node.js • Express.js  
+### 🚀 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+</p>
 
-**Languages**
-- TypeScript • JavaScript • Python  
+### 💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+</p>
 
-**Databases**
-- MongoDB • PostgreSQL  
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+</p>
 
-**ORM / ODM**
-- TypeORM • Mongoose  
+### 🔧 ORM / ODM
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45"/>
+</p>
 
-**Tools**
-- Git • Postman • Linux • VS Code  
+### 🛠️ Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+</p>
 
 ---
 
 ## 🚀 Projects
 
 - 🌐 **Portfolio** → https://deshar-prashant-portfolio.netlify.app/  
-- 🛠️ **Backend APIs & systems** → Available on my GitHub repositories  
-- 📦 **Production projects** → REST APIs, Auth systems, and scalable services  
+- 🛠️ **Backend APIs & Systems** → Available on my GitHub repositories  
+- 📦 **Production Projects** → REST APIs, Auth systems, scalable backend services  
 
 ---
 
@@ -76,9 +94,11 @@ Building scalable backend systems, clean APIs, and high-performance web services
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant133&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashant133&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant133" />
 </p>
+
+---
