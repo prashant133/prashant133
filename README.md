@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prashant Deshar</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+TypeScript+Developer;Building+Scalable+APIs+and+Systems;Focused+on+System+Design+and+Performance" />
+</p>
+
 <h3 align="center">
 Backend Engineer | Node.js & TypeScript Developer
 </h3>
@@ -19,67 +23,64 @@ Building scalable backend systems, clean APIs, and high-performance web services
 - 🚀 System Design & Scalable Backend Architectures  
 - ⚡ Redis (Caching, Queues, Performance Optimization)  
 - 🔐 Secure API Design & Authentication Systems  
-- 🧩 Microservices & Distributed Backend Patterns  
-- 📦 Improving production-level Node.js performance  
+- 🧩 Microservices & Distributed Systems  
+- 📦 Production-level Node.js optimization  
 
 ---
 
 ## 👨‍💻 About Me
 
-- Backend Developer focused on building production-ready systems  
-- Strong interest in clean architecture and scalable APIs  
-- Passionate about performance optimization and system design  
-- Always learning real-world backend engineering practices  
+- Backend Developer focused on scalable production systems  
+- Passionate about clean architecture & API design  
+- Strong interest in backend performance & system design  
+- Always improving real-world engineering skills  
 
 ---
 
 ## 🧰 Tech Stack
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+**Backend**
+- Node.js • Express.js  
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages**
+- TypeScript • JavaScript • Python  
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Databases**
+- MongoDB • PostgreSQL  
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**ORM / ODM**
+- TypeORM • Mongoose  
+
+**Tools**
+- Git • Postman • Linux • VS Code  
 
 ---
 
 ## 🚀 Projects
 
-- 🌐 Portfolio: https://deshar-prashant-portfolio.netlify.app/  
-- 🛠️ Backend systems & APIs available on my GitHub repositories  
+- 🌐 **Portfolio** → https://deshar-prashant-portfolio.netlify.app/  
+- 🛠️ **Backend APIs & systems** → Available on my GitHub repositories  
+- 📦 **Production projects** → REST APIs, Auth systems, and scalable services  
 
 ---
 
 ## 📝 Writing
 
-- Medium: https://medium.com/@dsrprasant  
+- 📰 Medium → https://medium.com/@dsrprasant  
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: **dsrprasant@gmail.com**  
-- 🔗 LinkedIn: https://linkedin.com/in/deshar-prashant  
+- 📧 Email → **dsrprasant@gmail.com**  
+- 🔗 LinkedIn → https://linkedin.com/in/deshar-prashant  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant133&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashant133&show_icons=true" />
 </p>
 
 <p align="center">
