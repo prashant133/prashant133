@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Deshar</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+TypeScript+Developer;Building+Scalable+APIs+and+Systems;Focused+on+System+Design+and+Performance" />
-</p>
-
 <h3 align="center">
 Backend Engineer | Node.js & TypeScript Developer
 </h3>
