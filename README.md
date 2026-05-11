@@ -3,7 +3,8 @@
 <h3 align="center">Backend Engineer | Node.js & TypeScript Developer</h3>
 
 <p align="center">
-I build scalable backend systems, clean APIs, secure authentication flows, and high-performance web services.
+“First, solve the problem. Then, write the code.”
+— John Johnson
 </p>
 
 <p align="center">
